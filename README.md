@@ -66,6 +66,3 @@ site-checker/
 
 MIT License
 
-## Автор 👤
-
-Ваше имя
